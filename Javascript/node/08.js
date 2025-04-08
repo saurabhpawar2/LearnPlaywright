@@ -12,4 +12,11 @@ let person1 = new Person('Saurabh', 'Pawar')
 //\\person1.printdata();
 
 
-console.log(person1)
+console.log(person1.toString())
+// console.log(typeof(Object))
+
+// console.log(Object.toString())
+
+console.log(Object.prototype.constructor===Object)
+
+console.log(Object.prototype.toString());
