@@ -7,3 +7,4 @@ return ans;
 
 var square4 = square(4);
 var square12 = square(12);
+
